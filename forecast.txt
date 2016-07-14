@@ -1,0 +1,15 @@
+<div href="http://www.yr.no/place/Norway/M%C3%B8re_og_Romsdal/%C3%98rsta/%C3%98rsta_kommune/#ctl00_ctl00_MidtfeltCPH_MidtfeltCPH_Tekstvarsel" id="ctl00_ctl00_MidtfeltCPH_MidtfeltCPH_Tekstvarsel" class="yr-textforecast">
+			<h2><strong>The meteorologist’s text forecast</strong></h2>
+			
+			<div class="yr-content-frame">
+  <h3>Monday</h3>
+  <p>
+    <strong>Vestlandet</strong> Eit lågtrykk over Sør-Noreg gir skiftande eller sørleg bris. For det meste skya med regn og regnbyer.</p>
+  <h3>Tuesday</h3>
+  <p>
+    <strong>Vestlandet</strong> Vestleg bris, om ettermiddagen auking til nordvest liten kuling på kysten av Rogaland. For det meste skya, regnbyer.</p>
+  <h3>Wednesday</h3>
+  <p>
+    <strong>Møre og Romsdal og Trøndelag</strong> Nordvestlig bris. Enkelte regnbyger. Gløtt av sol.</p>
+</div>
+		</div>

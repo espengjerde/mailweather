@@ -1,0 +1,30 @@
+
+<html>
+  <body>
+    <div class="yr-textforecast"
+      href="/opt/weather/forecast-raw#ctl00_ctl00_MidtfeltCPH_MidtfeltCPH_Tekstvarsel"
+      id="ctl00_ctl00_MidtfeltCPH_MidtfeltCPH_Tekstvarsel">
+      <h2><strong>Tekstvarsel frå meteorologen</strong></h2>
+
+      <div class="yr-content-frame">
+        <h3>torsdag</h3>
+
+        <p> <strong>Møre og Romsdal og Trøndelag</strong> Skyet vær
+          og litt regn. Nordlig eller nordvest opp i frisk bris på
+          kysten.</p>
+
+        <h3>fredag</h3>
+
+        <p> <strong>Møre og Romsdal</strong> Nordaust bris. Lengre
+          perioder med sol, mulighet for enkelte regnbyger.</p>
+
+        <h3>laurdag</h3>
+
+        <p> <strong>Vestlandet</strong> Eit lågtrykk kjem inn mot
+          Vestlandet frå vest og sørger for regn og regnbyer det
+          meste av dagen. Søraust liten kuling på kysten først på
+          dagen, seinare dreiande sørvest og noko minkande.</p>
+      </div>
+    </div>
+  </body>
+</html>

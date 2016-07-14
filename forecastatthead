@@ -1,0 +1,9 @@
+From: weather@egjerde.com
+To: eg@tussa.no
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="FCAST_bound"; charset=UTF-8
+Subject : Tekstvarsel frå meteorologen
+
+--FCAST_bound
+Content-Type: text/html; charset=UTF-8
+

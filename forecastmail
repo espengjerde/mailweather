@@ -1,0 +1,35 @@
+From: weather@egjerde.com
+To: eg@tussa.no
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Subject : Tekstvarsel frå meteorologen
+
+
+<html>
+  <body>
+    <div class="yr-textforecast"
+      href="forecast-raw#ctl00_ctl00_MidtfeltCPH_MidtfeltCPH_Tekstvarsel"
+      id="ctl00_ctl00_MidtfeltCPH_MidtfeltCPH_Tekstvarsel">
+      <h2><strong>Tekstvarsel frå meteorologen</strong></h2>
+
+      <div class="yr-content-frame">
+        <h3>tysdag</h3>
+
+        <p> <strong>Vestlandet</strong> Vestlig bris, om ettermiddagen
+          økning til nordvest liten kuling på kysten av Rogaland. For
+          det meste skyet, regnbyger.</p>
+
+        <h3>onsdag</h3>
+
+        <p> <strong>Møre og Romsdal og Trøndelag</strong> Nordvestlig
+          bris. Enkelte regnbyger. Gløtt av sol.</p>
+
+        <h3>torsdag</h3>
+
+        <p> <strong>Møre og Romsdal, Trøndelag og Nordland</strong>
+          Skyet vær og litt regn av og til. Nordlig og nordvestlig
+          bris.</p>
+      </div>
+    </div>
+  </body>
+</html>

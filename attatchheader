@@ -1,0 +1,4 @@
+--FCAST_bound
+Content-type: application/pdf; name="varsel.pdf"
+Content-Transfer-Encoding: uuencode
+Content-Disposition: attachment; filename="forecast.pdf"
